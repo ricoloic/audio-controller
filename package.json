@@ -1,0 +1,19 @@
+{
+    "name": "playback-audio-controller",
+    "version": "1.0.0",
+    "description": "Load, analize, play, audio with javascript made simple",
+    "main": "index.js",
+    "keywords": [
+        "music",
+        "audio",
+        "control",
+        "controller",
+        "context",
+        "sound",
+        "music",
+        "analizer",
+        "playback"
+    ],
+    "author": "ricoloic",
+    "license": "ISC"
+}
