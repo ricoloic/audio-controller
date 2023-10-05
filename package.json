@@ -15,5 +15,6 @@
         "playback"
     ],
     "author": "ricoloic",
-    "license": "ISC"
+    "license": "ISC",
+    "homepage": "https://github.com/ricoloic/audio-controller"
 }
